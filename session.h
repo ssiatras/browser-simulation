@@ -28,6 +28,7 @@ void SessionTabNext(InfoSessionPtr, int *);
 void SessionTabPrev(InfoSessionPtr, int *);
 void SessionTabMoveLeft(InfoSessionPtr, int *);
 void SessionTabMoveRight(InfoSessionPtr, int *);
+void SessionNewOpeningAddress(InfoSessionPtr, char *, int *);
 void SessionShowOpeningAddress(InfoSessionPtr, int *);
 void SessionSiteNext(InfoSessionPtr, int *);
 void SessionSitePrev(InfoSessionPtr, int *);
