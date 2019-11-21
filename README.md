@@ -2,15 +2,15 @@
 Simulation of a browser.
 ![](https://siatras.dev/img/browser-simulation.jpg)
 
-### Compilation
+## Compilation
 `$ make clean`
 
 `$ make`
 
-### Usage
+## Usage
 `$ ./browser_simulation`
 
-### Commands
+## Commands
 List of available commands:
 0.  Exit
 1.  Create a new session
