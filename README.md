@@ -1,5 +1,5 @@
 # Browser Simulation
-Simulation of a browser.
+Simulation of a browser in command-line interface.
 ![](https://siatras.dev/img/browser-simulation.jpg)
 
 ## Compilation
@@ -12,6 +12,7 @@ Simulation of a browser.
 
 ## Commands
 List of available commands:
+
 0.  Exit
 1.  Create a new session
 2.  Create a new tab
