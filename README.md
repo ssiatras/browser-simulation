@@ -1,6 +1,6 @@
 # Browser Simulation
 Simulation of a browser in command-line interface.
-![](https://siatras.dev/img/browser-simulation.jpg)
+![A visualization of the structures used in the browser simulation](https://siatras.dev/img/browser-simulation.jpg)
 
 ## Compilation
 `$ make clean`
